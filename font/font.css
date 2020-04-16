@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Open+Sans');
+
+@font-face{
+	font-family: "ProximaNova";
+	src: url("../font/ProximaNova.ttf") format("truetype");
+	url("../font/ProximaNova.eot") format("eot");
+	url("../font/ProximaNova.woff") format("woff");
+	url("../font/ProximaNova.svg#ProximaNova") format("svg");
+}
+
+@font-face{
+	font-family: "NautilusPompilius";
+	src: url("../font/NautilusPompilius.ttf") format("truetype");
+	url("../font/NautilusPompilius.eot") format("eot");
+	url("../font/NautilusPompilius.woff") format("woff");
+	url("../font/NautilusPompilius.svg#NautilusPompilius") format("svg");
+}
